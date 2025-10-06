@@ -1,2 +1,5 @@
 Hola mi nombre es Samuel
 Me gusta vivir el amor intensamente
+Me apellido Fernández
+Mi segundo apellido es Lucas
+Mi hermana se llama Helena
